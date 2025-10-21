@@ -1,4 +1,5 @@
-🤖 PerBOTS 25 – Circular Path Navigation Robot
+**🤖 PerBOTS 25 – Circular Path Navigation Robot**
+
 🏁 Overview
 
 PerBOTS 25 is a robotics simulation project developed for the PerBOTS 2025 competition.
